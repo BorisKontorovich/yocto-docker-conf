@@ -1,20 +1,8 @@
 # Ignore everything
 *
-# Except README.md
+# Except custom config files
+!conf/bblayers.comf
+!conf/local.conf
+!conf/templateconf.cfg
+# and README.md
 !README.md
-
-# Except the conf directory and its contents
-!conf/
-!conf/**
-
-# Ignore conf-notes.txt and conf-summary.txt
-conf/conf-notes.txt
-conf/conf-summary.txt
-*
-
-# Except README.md
-!README.md
-
-# Except the conf directory and its contents
-!conf/
-!conf/**
