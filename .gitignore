@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except README.md
+!README.md
+
+# Except the conf directory and its contents
+!conf/
+!conf/**
