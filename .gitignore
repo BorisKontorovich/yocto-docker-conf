@@ -1,7 +1,7 @@
 # Ignore everything
 *
 # Except custom config files
-!conf/bblayers.comf
+!conf/bblayers.conf
 !conf/local.conf
 !conf/templateconf.cfg
 # and README.md
